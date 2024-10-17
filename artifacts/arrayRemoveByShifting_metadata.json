@@ -1,0 +1,78 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "arr",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_index",
+						"type": "uint256"
+					}
+				],
+				"name": "remove",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"base/ArrayRemoveByShifting.sol": "arrayRemoveByShifting"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"base/ArrayRemoveByShifting.sol": {
+			"keccak256": "0xb99ad6492b31a18513a353a41b7c27d5963b69fc3014e3c28d14e73aacbba3ef",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://aa1e993fe5f9ffe0fd742bd4db2599d9f3dc5285b531a21aa4d787b0abe9f7a2",
+				"dweb:/ipfs/QmbK5Tx146VLbUPB7RavgYucrhJzE28szgZRJv87PzWF2W"
+			]
+		}
+	},
+	"version": 1
+}

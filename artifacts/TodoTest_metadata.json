@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"base/TodoTest.sol": "TodoTest"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"base/StructDeclaration.sol": {
+			"keccak256": "0x241c765faca32fe5cd2e60031568b83e954979c2e716607665ef4f090b7515c9",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://eb5b07b42d17fb0dbed23edfcdf266bbc1107a22d437eeb89ceb29fc97bd9d6d",
+				"dweb:/ipfs/QmPfcChTQCmFgFKfw3P1GNwAytPkQtPjYjwqZN77dBN9sP"
+			]
+		},
+		"base/TodoTest.sol": {
+			"keccak256": "0x519a3c2baec8494400ce6f652eea967837a3ab0c91e2b05912079f2747963c4e",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://d1901baa9e003bdce3ff67b96891c43c5d870ff0daa45cd728cd2d11b7e0bcab",
+				"dweb:/ipfs/QmeVE1k2VSzEKZ8txbytNFy6mKvSn2WPzvbryyABVrwojX"
+			]
+		}
+	},
+	"version": 1
+}
